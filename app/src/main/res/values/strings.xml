@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScheduleApp</string>
+
+    <!--西暦４桁/月２桁 例:2016/03-->
+    <string name="format_month_year">yyyy/MM</string>
+
+</resources>
